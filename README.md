@@ -15,9 +15,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Chinese)**, **IP Res
 
 **Feel Free for Donation :** :heart:
 
-USDT TRC20: `TDam6uh8ctLJuz8Y3rRk4t5pLikQvtpvJE`
 
-Ether ETH: `0x256ddA590c35638fA4B3a25Ec4544Db087ceE826`
 
 # Features
 
